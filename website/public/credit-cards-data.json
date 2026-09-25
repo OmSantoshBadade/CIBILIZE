@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "American Express Membership Rewards® Credit Card",
+    "title": "American Express Membership Rewards® Credit Card",
+    "issuer": "American Express",
+    "image": "https://icm.aexp-static.com/Internet/internationalcardshop/en_in/images/cards/Membership_Rewards_Card.png",
+    "rating": null,
+    "annual_fee": [
+      "First Year Fee: Rs. 1,000 plus applicable taxes",
+      "Second Year onwards: Rs. 4,500 plus applicable taxes"
+    ],
+    "rewards": [
+      "Welcome Gift of 4,000 Bonus Membership Rewards® Points",
+      "Earn 1 Membership Rewards® Point for every Rs. 50 spent (except on Fuel, Insurance, Utilities, Cash Transactions and EMI conversion at Point of Sale)",
+      "Earn 1,000 Bonus Membership Rewards Points for using the card 4 times on transactions of Rs. 1,500 or above in a calendar month",
+      "Earn an additional 1,000 Membership Rewards points for spending INR 20,000 or more in a calendar month (enrollment required)",
+      "Earn 5,000 Membership Rewards Points upon First Year Card Renewal, on payment of annual membership fee"
+    ],
+    "benefits": [
+      "24X7 Card Related Assistance",
+      "Dispute Resolution",
+      "Zero lost Card liability",
+      "Emergency Card Replacement",
+      "Contactless Payment enabled",
+      "Fuel Convenience Fee Waiver at HPCL (for transactions less than Rs. 5,000)",
+      "Up to 20% discounts on dining at select restaurants"
+    ],
+    "why_to_recommend": "Offers a good welcome bonus and rewards on spending, with potential for fee waivers and additional points through milestones. Provides essential cardholder assistance and contactless payment.",
+    "best_suited_for": "Individuals who frequently use their credit card for everyday spending and can meet spending milestones to maximize rewards. Also suitable for those who can achieve the annual spending threshold for fee waivers.",
+    "eligibility": [
+      "Personal Annual Income of Rs. 6 Lakhs and above",
+      "Over 18 years of age",
+      "Resident Indian",
+      "Indian or multinational bank's savings or current account in India",
+      "Good credit history and no payment defaults",
+      "Current/permanent residential address in India",
+      "Issued to residents of specific cities (Delhi/NCR, Mumbai, Bangalore, Chennai, Pune, Hyderabad, Jaipur, Indore, Coimbatore, Chandigarh, Ahmedabad, Surat, Vadodra, Lucknow, Ludhiana, Nagpur, Nasik, Trivandrum and Mysuru)"
+    ],
+    "cta": ["Compare Card", "View all Cards"],
+    "tags": ["Membership Rewards", "Credit Card", "Points", "Welcome Bonus", "Fee Waiver"]
+  },
+  {
+    "id": "swiggy-hdfc-bank-credit-card",
+    "title": "Swiggy HDFC Bank Credit Card",
+    "issuer": "HDFC Bank",
+    "image": "https://cd9941cc.delivery.rocketcdn.me/wp-content/uploads/2024/06/Swiggy-HDFC-Bank-Credit-Card.webp",
+    "rating": "4.8/5",
+    "annual_fee": [
+      "₹500 + GST (Joining)",
+      "₹500 + GST (Renewal)",
+      "Waived on spending ₹2 Lakh annually"
+    ],
+    "rewards": [
+      "10% Cashback on Swiggy app (food orders, Instamart, Dineout, Genie)",
+      "5% Cashback on online spends across top brands (Apparel, Electronics, Entertainment, Home Décor, Department Store, Personal Care, Medical Store, Local Cabs, Pet Stores, Discount Stores)",
+      "1% Cashback on all other eligible categories",
+      "Cashback adjusted in the next credit card statement",
+      "Maximum cashback capped at ₹1,500 per billing cycle for 10% and 5% categories",
+      "Maximum cashback capped at ₹500 per billing cycle for 1% category",
+      "Cashback not applicable on spends made on Swiggy Money Wallet, Swiggy Minis, and Swiggy Liquor",
+      "No cashback on transactions less than ₹100 on Swiggy",
+      "5% cashback does not apply to gift cards and grocery purchases on Swiggy"
+    ],
+    "welcome_bonus": "Complimentary 3-Month Swiggy One Membership",
+    "benefits": [
+      "Mastercard World Tier Benefits",
+      "4 complimentary rounds of golf green fees annually (1 per month)",
+      "12 complimentary golf lessons annually (1 per month)",
+      "50% off on golf services",
+      "Up to 12% off on Agoda",
+      "Complimentary stay and dinner for one person at designated Mastercard partner locations worldwide"
+    ],
+    "why_to_recommend": "Excellent for frequent Swiggy users, offering significant cashback on food orders and other online spends, along with a complimentary Swiggy One membership.",
+    "best_suited_for": ["Dining", "Food", "Online Spends"],
+    "eligibility": [
+      "Age: 21-60 years (salaried), 21-65 years (self-employed)",
+      "Indian citizen",
+      "Minimum monthly salary of ₹15,000 or ITR of ₹6 Lakhs per annum (self-employed)",
+      "Existing HDFC Credit Card holders can also apply"
+    ],
+    "cta": [
+      "https://cardinsider.com/go/hdfcswiggy (Apply Now)",
+      "https://cardinsider.com/hdfc-bank/swiggy-hdfc-bank-credit-card/ (Learn More)"
+    ],
+    "tags": [
+      "Swiggy",
+      "HDFC Bank",
+      "Cashback",
+      "Food",
+      "Dining",
+      "Online Shopping",
+      "Golf",
+      "Mastercard World"
+    ]
+  },
+  {
+    "id": "HDFC Bank Regalia Gold Credit Card",
+    "title": "HDFC Bank Regalia Gold Credit Card",
+    "issuer": "HDFC Bank",
+    "image": "https://cd9941cc.delivery.rocketcdn.me/wp-content/uploads/2023/03/HDFC-Bank-Regalia-Gold-Credit-Card.webp",
+    "rating": "4.5/5",
+    "annual_fee": ["₹2,500 + GST (Joining)", "₹2,500 + GST (Renewal)"],
+    "rewards": [
+      "4 Reward Points on every retail spend of ₹150",
+      "Accelerated 20 Reward Points on every ₹150 spent in-store and online at Nykaa, Reliance Digital, Myntra, and Marks & Spencer",
+      "Reward Points can be redeemed for flight/hotel bookings, Airmiles, products, vouchers, or cashback."
+    ],
+    "welcome_bonus": "Voucher Worth ₹2,500, Complimentary MMTBLACK Gold and Swiggy One membership on spending over ₹1 Lakh within 90 days.",
+    "milestones": [
+      "₹1500 worth of vouchers from M&S, Myntra, Marriott, or Reliance Digital on spending ₹1.5 Lakhs each quarter.",
+      "₹5,000 worth of flight vouchers on spending ₹5 Lakhs.",
+      "₹5,000 worth of complimentary flight vouchers on spending ₹7.5 Lakhs in the card anniversary year."
+    ],
+    "benefits": [
+      "Complimentary MMTBLACK Gold and Swiggy One membership",
+      "₹200 Off on Swiggy Dineout (Twice Each Month)",
+      "12 complimentary domestic airport lounge access every year",
+      "6 complimentary international lounge visits via Priority Pass",
+      "Air Accident Death Cover Up to ₹1 Crore",
+      "Emergency Overseas Hospitalisation Cover Worth ₹15 Lakhs",
+      "Credit Liability Cover Up to ₹9 Lakhs",
+      "24/7 concierge service"
+    ],
+    "why_to_recommend": "Offers a great reward rate on all retail spends and accelerated reward points on partner brands. Provides premium travel and lifestyle benefits, including lounge access and travel vouchers on milestones.",
+    "best_suited_for": "Travel, Shopping, High-spenders",
+    "eligibility": [
+      "Age: 21 to 65 Years (Self-Employed), 21 to 60 Years (Salaried)",
+      "Income: Annual Income ₹18 Lakh (Self-Employed), Minimum ₹1 Lakh Monthly (Salaried)",
+      "Good credit score and credit history required."
+    ],
+    "cta": [
+      "https://cardinsider.com/go/hdfcbank (Apply Now)",
+      "https://cardinsider.com/hdfc-bank/hdfc-bank-regalia-gold-credit-card/# (Rewards and Benefits)",
+      "https://cardinsider.com/hdfc-bank/hdfc-bank-regalia-gold-credit-card/# (Fees & Charges)",
+      "https://cardinsider.com/hdfc-bank/hdfc-bank-regalia-gold-credit-card/# (Product Details)",
+      "https://cardinsider.com/hdfc-bank/hdfc-bank-regalia-gold-credit-card/# (Pros/Cons)"
+    ],
+    "tags": ["HDFC Bank", "Regalia Gold", "Credit Card", "Travel", "Shopping", "Rewards"],
+    "waiver_condition": "Renewal Fee Waiver on Spending ₹4 Lakhs in a year."
+  },
+  {
+    "id": "HDFC Bank INFINIA Metal Credit Card",
+    "title": "HDFC Bank INFINIA Metal Credit Card",
+    "issuer": "HDFC Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "5/5",
+    "annual_fee": [
+      "₹12,500 + GST (Joining)",
+      "₹12,500 + GST (Renewal)",
+      "Renewal Fee Waived on Spends of ₹10 Lakh"
+    ],
+    "rewards": [
+      "Reward Points",
+      "5 Reward Points on every retail spend of Rs. 150, reward rate of up to 3.3%",
+      "Welcome bonus of 12,500 Reward Points",
+      "10X RPs on travel and shopping spending on the SmartBuy platform (capped at 15,000 points per month)",
+      "RPs can be redeemed for flight and hotel bookings via SmartBuy (1 RP = Re. 1)",
+      "Airmiles through net banking (1 RP = 1 Airmile)",
+      "Products and vouchers via net banking or SmartBuy (1 RP = Rs. 0.50)",
+      "Apple and Tanishq vouchers (1 RP = Re. 1)",
+      "Cashback (1 RP = Rs. 0.30)"
+    ],
+    "benefits": [
+      "24x7 global concierge service",
+      "Complimentary Club Marriott membership for the first year offering 20% discounts on dining and stay in the Asia-Pacific region",
+      "1 + 1 Complimentary Buffet at ITC Hotels",
+      "Up to ₹750 With Swiggy Dineout",
+      "Complimentary Priority Pass Membership",
+      "Unlimited Free Domestic Airport Lounge Access",
+      "Unlimited Complimentary International Lounge Access for Primary and Add-On Cardholders Across the Globe with a Priority Pass",
+      "Unlimited complimentary golf games at leading golf courses across India and abroad",
+      "Unlimited golf coaching at multiple golf courses across India",
+      "Insurance cover worth Rs. 3 crores against accidental air death",
+      "Cover worth Rs. 50 lakh against medical emergencies during international air travel",
+      "Credit shield cover worth Rs. 9 lakh",
+      "2% Foreign Currency Markup",
+      "1% Fuel Surcharge Waiver (Up to ₹1,000 Each Statement Cycle)",
+      "2+1 complimentary night stay at participating ITC hotels",
+      "20% off on Food & Beverage bills at top restaurants (Club Marriott)",
+      "20% off on best available rates at participating Marriott hotels in India and on Weekend Rates in the Asia Pacific (Club Marriott)",
+      "20% off on Spa services at select participating Marriott hotels in India (Club Marriott)",
+      "Up to ₹750 off via Swiggy Dineout (twice each month on a minimum bill amount of ₹8,000)",
+      "10% discount up to ₹500 on a minimum bill of ₹3,500 via Swiggy Dineout"
+    ],
+    "why_to_recommend": "This card is ideal for high-net-worth individuals seeking luxurious benefits, high rewards, and exclusive privileges like 24x7 concierge services, premium golf access, and attractive dining benefits. It offers a lower foreign currency exchange rate and complimentary Priority Pass membership for international travelers.",
+    "best_suited_for": "Travel, Dining, Shopping",
+    "eligibility": [
+      "Invite-only",
+      "Age: Above 21 years and below 65 years",
+      "High annual income: Preferably ₹45 lakh or more",
+      "Very good credit history",
+      "Existing relationship with HDFC Bank with Total Relationship Value (TRV) exceeding ₹25 lakh",
+      "Existing HDFC Credit Card with a high credit limit or high spends above ₹8 lakh in the past six months"
+    ],
+    "cta": [
+      "Apply Now: https://cardinsider.com/go/hdfcbank",
+      "Learn More: https://cardinsider.com/hdfc-bank/hdfc-bank-infinia-credit-card/#"
+    ],
+    "tags": [
+      "HDFC Bank",
+      "Infinia",
+      "Metal Credit Card",
+      "Premium",
+      "Rewards",
+      "Travel",
+      "Dining",
+      "Golf",
+      "Insurance",
+      "Concierge"
+    ]
+  },
+  {
+    "id": "hdfc-bank-moneyback-plus-credit-card",
+    "title": "HDFC Bank MoneyBack Plus Credit Card",
+    "issuer": "HDFC Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.5/5",
+    "annual_fee": ["Rs. 500 + GST (Joining)", "Rs. 500 + GST (Renewal)"],
+    "rewards": [
+      "2 CashPoints/₹150 on Retail Purchases",
+      "10X CashPoints/₹150 on Flipkart, Amazon, Swiggy, BigBasket, and Reliance Smart SuperStore",
+      "500 CashPoints as a welcome bonus",
+      "Gift voucher worth ₹500 on spends of ₹50,000 in a calendar quarter (max benefit of ₹2,000 in a year)"
+    ],
+    "benefits": [
+      "Up to ₹200 off on dining at over 2,000 premium restaurants via Swiggy Dineout",
+      "1% fuel surcharge waiver on fuel purchases (max waiver of ₹250 per billing cycle)",
+      "Renewal fee waived off on spending Rs. 50,000 or more in the previous year",
+      "2 Reward Points/₹150 on UPI spends (capped at 500 Reward Points each month) for RuPay variant"
+    ],
+    "why_to_recommend": "Great reward offers and redemption options, making it a great card for regular spending. Provides an amazing reward rate (up to 3.33%) and exciting gift vouchers on spending milestones. The annual fee can also be waived.",
+    "best_suited_for": "Shopping",
+    "eligibility": [
+      "Salary employees: 21-60 years old, minimum ₹20,000 monthly income",
+      "Self-employed: 21-65 years old, minimum ₹6 lakhs annual income",
+      "Decent credit score required"
+    ],
+    "cta": [
+      "https://cardinsider.com/go/hdfcbank (Apply Now)",
+      "https://cardinsider.com/hdfc-bank/hdfc-bank-moneyback-plus-credit-card/ (Learn More)"
+    ],
+    "tags": ["cashback credit cards", "HDFC Bank"]
+  },
+  {
+    "id": "ICICI Bank HPCL Coral Credit Card",
+    "title": "ICICI Bank HPCL Coral Credit Card",
+    "issuer": "ICICI Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.2/5",
+    "annual_fee": [
+      "Rs. 199 + GST (joining)",
+      "Rs. 199 + GST (renewal)",
+      "Waived on spending Rs. 50,000 or more in a year"
+    ],
+    "rewards": [
+      "2 Reward points per Rs. 100 spent on retail purchases",
+      "2.5% cashback (up to Rs. 100) on fuel purchases of Rs. 500 and more at HPCL petrol pumps",
+      "1 Reward Point = Rs. 0.25",
+      "2,000 Reward Points can be redeemed for Rs. 500 worth of fuel",
+      "Fuel purchases are not eligible for Reward points"
+    ],
+    "welcome_bonus": "N/A",
+    "benefits": [
+      "25% discount on movie tickets through BookMyShow (up to Rs. 100, twice a month)",
+      "Up to 15% discount on dining at over 800 participating restaurants through the Culinary Treats Programme",
+      "1% fuel surcharge waiver on fuel transactions of Rs. 4,000 or more at HPCL petrol pumps",
+      "Save 3.5% on fuel transactions (2.5% cashback and 1% fuel surcharge waiver)"
+    ],
+    "why_to_recommend": "This card is ideal for fuel purchases, offering significant savings through cashback and fuel surcharge waivers at HPCL pumps. It also provides rewards on retail spending and discounts on movies and dining, with a low annual fee that can be waived based on spending.",
+    "best_suited_for": ["Fuel", "Shopping"],
+    "eligibility": [],
+    "cta": [
+      "https://cardinsider.com/go/icicibank (Apply Now)",
+      "https://cardinsider.com/icici-bank/icici-bank-hpcl-coral-credit-card/ (Learn More)"
+    ],
+    "tags": ["Fuel", "Dining", "Entertainment", "Rewards"]
+  },
+  {
+    "id": "cashback-sbi-credit-card",
+    "title": "Cashback SBI Credit Card",
+    "issuer": "SBI Card",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.7/5",
+    "annual_fee": ["₹999 + GST (joining)", "₹999 + GST (renewal)"],
+    "rewards": ["5% Cashback for Online Spends", "1% Cashback for Offline Spends"],
+    "welcome_bonus": "N/A",
+    "milestones": "N/A",
+    "benefits": [
+      "1% fuel surcharge waiver for transactions between Rs. 500 and Rs. 3,000 at petrol pumps across India. (waiver capped at Rs. 100 per statement)",
+      "Contactless payments for transactions below Rs. 5,000.",
+      "Up to 2 add-ons for family members free for a lifetime."
+    ],
+    "why_to_recommend": "Great for online spendings as most cashback cards don’t offer 5% back and have lower rewards. The monthly cashback cap of Rs. 5,000 is high when compared to other cashback cards.",
+    "best_suited_for": ["Shopping", "Food"],
+    "eligibility": ["Age: 21 to 65 years", "Stable source of income", "Decent credit history"],
+    "cta": [
+      "https://cardinsider.com/go/sbicashback (Apply Now)",
+      "https://cardinsider.com/sbi-card/cashback-sbi-credit-card/# (Learn More)"
+    ],
+    "tags": [
+      "Cashback",
+      "Online Spends",
+      "Offline Spends",
+      "Fuel Surcharge Waiver",
+      "Contactless Payments"
+    ],
+    "waiver_condition": "Waived on spending Rs. 2 Lakhs or more in the previous year.",
+    "reward_rate": "5% Cashback for Online Spends. 1% Cashback for Offline Spends. Maximum Cashback of ₹5,000 in a Statement Cycle",
+    "reward_redemption": "Cashback earned with the card will be automatically credited to next month’s statement.",
+    "travel": "N/A",
+    "lounge_access": "N/A",
+    "dining": "N/A",
+    "golf": "N/A",
+    "insurance": "N/A",
+    "fees_and_charges": [
+      "Rewards Redemption Fee: ₹99",
+      "Foreign Currency Markup: 3.5% of the international transaction",
+      "Interest Rates: 3.75% per month (45% per annum)",
+      "Cash Advance Charges: 2.5% of the amount withdrawn or a minimum charge of Rs. 500.",
+      "Late Payment Charges: Nil for dues less than Rs. 500, Rs. 400 for Rs.500 to Rs.1,000, Rs. 750 for Rs.1,000 to Rs.10,000, Rs. 950 for Rs.10,000 to Rs. 25,000, Rs. 1,100 for Rs. 25,000 to Rs. 50,000, Rs. 1,300 for above Rs. 50,000."
+    ],
+    "exclusions_on_cashback": [
+      "Jewelry",
+      "Rental",
+      "Wallet",
+      "Fuel",
+      "School and Educational Services",
+      "Insurance Services",
+      "Utilities",
+      "Railways",
+      "Card, Gift, Novelty & Souvenir Shops",
+      "Quasi Cash/Member Financial Institution"
+    ]
+  },
+  {
+    "id": "BPCL SBI Octane Credit Card",
+    "title": "BPCL SBI Octane Credit Card",
+    "issuer": "SBI Card",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20419'%3E%3C/svg%3E",
+    "rating": "4.7/5",
+    "annual_fee": [
+      "Rs. 1,499 + GST (Joining)",
+      "Rs. 1,499 + GST (Renewal)",
+      "Waived on annual expenditure of Rs. 2 lakh."
+    ],
+    "rewards": [
+      "6,000 Bonus Reward Points Worth ₹1,500 (Welcome Benefit)",
+      "25 Reward Points/₹100 Spent at BPCL Fuel Stations (Reward Rate = 7.25%)",
+      "10 Reward Points/₹100 Spent on Groceries, Departmental Stores, and Movie Tickets",
+      "1 Reward Point/₹100 Spent on All Other Expenditures",
+      "Reward points expire after 2 years (24 months)",
+      "4 Reward Points = ₹1"
+    ],
+    "benefits": [
+      "4 complimentary access to domestic airport lounges every year (1 per quarter)",
+      "1% fuel surcharge waiver on transactions up to Rs. 4,000 (max waiver of Rs. 100 in a month)",
+      "Fraud Liability Cover of ₹1 Lakh",
+      "Voucher worth ₹2,000 from popular brands on annual spends of ₹3 lakh."
+    ],
+    "why_to_recommend": "Great fuel credit card offering a good reward program and several other exciting advantages. Offers a high reward rate on fuel spent at all BPCL stations and complimentary domestic airport lounge access.",
+    "best_suited_for": ["Travel", "Fuel", "Food"],
+    "eligibility": [
+      "Age: Above 18 years",
+      "Income: Stable income above ₹30,000 per month",
+      "Credit Score: Good credit history/score above 750"
+    ],
+    "cta": [
+      "https://cardinsider.com/go/sbibpcloctane (Apply Now)",
+      "https://cardinsider.com/sbi-card/bpcl-sbi-card-octane/ (Learn More)"
+    ],
+    "tags": ["fuel credit card", "travel credit card", "dining credit card"]
+  },
+  {
+    "id": "reliance-sbi-card-prime",
+    "title": "Reliance SBI Card PRIME",
+    "issuer": "SBI Card",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.6/5",
+    "annual_fee": ["Rs. 2,999 + GST (joining)", "Rs. 2,999 + GST (renewal)"],
+    "rewards": [
+      "10 Reward Points per Rs. 100 spent on participating Reliance Retail Stores",
+      "2 Reward Points per Rs. 100 spent on participating Reliance Retail Stores when payment is made through the UPI application",
+      "5 Reward Points per Rs. 100 spent on dining, movies, entertainment, domestic flights and international transactions",
+      "2 Reward Points per Rs. 100 spent on all other retail spends",
+      "4 Reward Points = Rs. 1",
+      "Welcome Benefits: Reliance Retail Vouchers Worth Rs. 3,000 and Discount Vouchers of Rs. 11,999",
+      "Spending Milestone Benefit: Rs. 1,500 Reliance Retail voucher on annual spends of Rs. 75,000, Rs. 2,250 Reliance Retail voucher on annual spends of Rs. 150,000, Rs. 5,500 Reliance Retail voucher on annual spends of Rs. 300,000"
+    ],
+    "benefits": [
+      "One Free Movie Ticket Each Month Worth Rs. 250",
+      "8 Complimentary Domestic Lounge Visits Per Year (2 Each Quarter)",
+      "4 Complimentary International Lounge Visits Per Year (2 Each Quarter)",
+      "Contactless payments up to Rs. 5,000"
+    ],
+    "why_to_recommend": "This card is most suited for Reliance Brand loyalists. With great welcome benefits, discount vouchers, and offers on Reliance Brands, you sure will save on your spending. Along with all of this, you also get one movie ticket worth Rs. 250 per month. For frequent travelers, there is also complimentary domestic and international lounge access so that you travel comfortably.",
+    "best_suited_for": "Shopping",
+    "eligibility": [],
+    "cta": [
+      "https://cardinsider.com/go/sbicard (Apply Now)",
+      "https://cardinsider.com/sbi-card/reliance-sbi-card-prime/# (Rewards and Benefits)",
+      "https://cardinsider.com/sbi-card/reliance-sbi-card-prime/# (Fees & Charges)",
+      "https://cardinsider.com/sbi-card/reliance-sbi-card-prime/# (Product Details)",
+      "https://cardinsider.com/sbi-card/reliance-sbi-card-prime/# (Pros/Cons)"
+    ],
+    "tags": ["Reliance", "SBI Card", "Shopping", "Movie", "Dining", "Travel", "Lounge Access"]
+  },
+  {
+    "id": "SBI SimplyCLICK Credit Card",
+    "title": "SBI SimplyCLICK Credit Card",
+    "issuer": "SBI Card",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.8/5",
+    "annual_fee": [
+      "₹499 + GST (Joining)",
+      "₹499 + GST (Renewal)",
+      "Waived on annual spends of ₹1 Lakh"
+    ],
+    "rewards": [
+      "10X Reward Points on Partner Brands (Apollo 24×7, Swiggy, Gyftr, BookMyShow, Cleartrip, Dominos, IGP, Myntra, Netmeds, and Yatra)",
+      "5X Reward Points on Online Purchases",
+      "1 Reward Point/₹100 Spent on Other Purchases",
+      "Welcome Benefit: Amazon Gift Card Worth ₹500",
+      "Milestone Benefit: E-vouchers from ClearTrip/Yatra worth ₹2,000 on net annual spends of ₹1,00,000 and ₹2,00,000 each.",
+      "Reward Redemption: 1 RP = ₹0.25"
+    ],
+    "benefits": [
+      "Gift vouchers worth ₹500 from Amazon as a welcome benefit.",
+      "E-vouchers from ClearTrip/Yatra worth ₹2,000 on net annual spends of ₹1,00,000 and ₹2,00,000 each.",
+      "10X Reward Points on online spending at partner merchants.",
+      "5X Reward Points on all other online spends.",
+      "1 Reward Point per ₹100 on all offline spends except fuel.",
+      "Annual fee waiver of ₹499 on yearly spending of ₹1,00,000.",
+      "1% fuel surcharge waived for all purchases of fuel between ₹500 and ₹3,000.",
+      "Zero Liability Protection",
+      "Contactless payments",
+      "Accepted globally"
+    ],
+    "why_to_recommend": "This card is best suited for online shopping because it offers 10X reward points at some of the most popular online shopping and travel websites. It is an affordable entry-level option with a low annual fee and offers a good reward rate on online spending.",
+    "best_suited_for": "Online shoppers, first-time cardholders, average-income individuals.",
+    "eligibility": [
+      "Age: 18 – 65 Years (Salaried and Self-employed)",
+      "Income: ₹20,000 Monthly",
+      "Credit Score: 750+ (implied from comments)"
+    ],
+    "cta": [
+      "Apply Now: https://cardinsider.com/go/sbisimplyclick",
+      "Learn More: https://cardinsider.com/sbi-card/sbi-simplyclick-credit-card/"
+    ],
+    "tags": ["Shopping", "Online Shopping", "Entry-level", "Rewards"]
+  },
+  {
+    "id": "SBI SimplySAVE UPI Rupay Credit Card",
+    "title": "SBI SimplySAVE UPI Rupay Credit Card",
+    "issuer": "SBI Card",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.6/5",
+    "annual_fee": ["Rs. 499 + GST (Joining)", "Rs. 499 + GST (Renewal)"],
+    "rewards": [
+      "2,000 Reward Points on Spending ₹2,000 in the First 60 Days",
+      "10X Reward Points on movie and dining spends",
+      "1 Reward Point/₹150 Spent (Reward Rate = 0.17%)",
+      "10X RPs for Spends on Movies, Grocery, Dining, & Departmental Stores (Reward Rate 1.7%)",
+      "Redeem Points for Vouchers, Against Statement or for Products (1 Reward Point = ₹0.25)"
+    ],
+    "benefits": [
+      "Annual fee waiver on spending Rs. 1 lakh or more",
+      "1% fuel surcharge waiver on transactions between Rs. 500 and Rs. 3,000 (capped at Rs. 100 per month)",
+      "Add-on cards at no additional cost",
+      "UPI Enabled (RuPay network)"
+    ],
+    "why_to_recommend": "A great entry-level credit card, perfect for individuals who are new to the credit scene and are seeking to save money on essential everyday expenses.",
+    "best_suited_for": "Shopping",
+    "eligibility": [
+      "Salaried: 18 years – 65 years, Rs. 20,000 per month income",
+      "Self-employed: 21 years – 65 years, Rs. 20,000 per month income (as per ITR)"
+    ],
+    "cta": [
+      "https://cardinsider.com/go/sbisimplysave (Apply Now)",
+      "https://cardinsider.com/sbi-card/sbi-simplysave-credit-card/ (Rewards and Benefits)",
+      "https://cardinsider.com/sbi-card/sbi-simplysave-credit-card/# (Fees & Charges)",
+      "https://cardinsider.com/sbi-card/sbi-simplysave-credit-card/# (Product Details)",
+      "https://cardinsider.com/sbi-card/sbi-simplysave-credit-card/# (Pros/Cons)"
+    ],
+    "tags": ["Entry-level", "Shopping", "Rewards", "Savings", "UPI"]
+  },
+  {
+    "id": "AU Bank LIT Credit Card",
+    "title": "AU Bank LIT Credit Card",
+    "issuer": "AU Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.5/5",
+    "annual_fee": null,
+    "rewards": [
+      "1 Reward Point for every ₹100 spent on retail",
+      "10X or 5X accelerated Reward Points on the feature that you select",
+      "5% and 2% cashback on retail spends on achieving the spend target",
+      "Additional 5% cashback for travel, dining and grocery expenses"
+    ],
+    "benefits": [
+      "3 Months of Complimentary Membership of Zee5 and Amazon Prime (Paid Feature)",
+      "1 Complimentary Airport Lounge Access Every Quarter (Paid Feature)",
+      "1% Fuel Surcharge Waiver on all transactions between ₹400 to ₹5,000",
+      "5% Cashback on Grocery Spends",
+      "5% Cashback on Apparel Spends",
+      "10x Reward Points on Online Spends",
+      "5x Reward Points on Online Spends",
+      "10x Reward Points on Offline Spends",
+      "5x Reward Points on Offline Spends"
+    ],
+    "why_to_recommend": "India’s First customizable Credit card. Choose whichever feature you want and whenever you want with the card. 3 Months of Free Membership of Zee5 and Amazon Prime. For every Rs. 100 spent on retail transactions, you will get 1 Reward Point. 10X or 5X accelerated Reward Points on all online and offline transactions. Surcharge waiver of 1% on all fuel transactions between Rs. 400 to Rs. 5,000. 5% and 2% cashback on retail spends on achieving the spend target. Additional 5% cashback for travel, dining and grocery expenses. 1 complimentary lounge access per quarter",
+    "best_suited_for": "Movies, Travel, Dining, Fuel, Shopping",
+    "eligibility": null,
+    "cta": ["Apply Now"],
+    "tags": [
+      "Customizable Credit Card",
+      "First Customizable Credit Card",
+      "Zee5 Membership",
+      "Amazon Prime Membership",
+      "Airport Lounge Access",
+      "Reward Points",
+      "Cashback",
+      "Fuel Surcharge Waiver"
+    ]
+  },
+  {
+    "id": "AU Zenith+ Credit Card",
+    "title": "AU Zenith+ Credit Card",
+    "issuer": "AU Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.6/5",
+    "annual_fee": [
+      "₹4,999 + GST (Joining)",
+      "₹4,999 + GST (Renewal)",
+      "Renewal fee waiver on spending ₹8 Lakhs in the year"
+    ],
+    "rewards": [
+      "2 RPs per Rs. 200 spent on dining, international, and travel spends.",
+      "1 RP per Rs. 100 on other spends",
+      "Welcome Benefits: Luxury Gift Vouchers or Reward Points Worth ₹5,000",
+      "Milestone Benefits: 1000 RPs on spends of Rs. 75,000 in the month",
+      "Renewal Benefit: 5,000 RPs on paying the card membership fee",
+      "Reward Redemption: N/A",
+      "Value of 1 RP = ₹1"
+    ],
+    "benefits": [
+      "16 complimentary domestic lounge access per annum",
+      "16 complimentary international lounge access per annum",
+      "8 complimentary golf lessons per annum",
+      "16 complimentary Buy One Get One movie tickets per annum",
+      "Complimentary device protection plan",
+      "Complimentary Taj Epicure Membership on spending Rs. 12 Lakhs in the year",
+      "30% discount on the Silver Spoon Dining program",
+      "Complimentary meet and greet services with end-to-end VIP check-in four times per year",
+      "Air Accident Cover – Up to ₹2 Crore",
+      "Card Liability Cover – Up to ₹15 Lakhs",
+      "Credit Shield – Up to ₹15 Lakhs",
+      "Purchase Protection – Up to ₹50,000",
+      "Other travel-related covers – In the event of baggage delay, delay in flight, loss of passport, and plane hijack."
+    ],
+    "why_to_recommend": "The AU Zenith+ Metal Credit Card is AU Small Finance Bank’s most luxurious offering. It is perfect for people who frequently travel and make maximum credit card spending. It offers a decent reward rate, complimentary Taj Epicure Membership, lounge access, golf rounds, and BOGO movie tickets. The low 0.99% forex markup fee is also a great feature for those who regularly make foreign currency spends.",
+    "best_suited_for": "Travel, Dining, Shopping",
+    "eligibility": ["Age: 21 to 60 years", "Resident of India", "Net monthly income: ₹2.5 Lakhs"],
+    "cta": [
+      "Apply Now: https://cardinsider.com/go/aubank",
+      "Learn More: https://cardinsider.com/au-bank/zenith-plus-credit-card/"
+    ],
+    "tags": [
+      "AU Bank",
+      "Zenith+ Credit Card",
+      "Luxury Credit Card",
+      "Travel Credit Card",
+      "Dining Credit Card",
+      "Shopping Credit Card"
+    ]
+  },
+  {
+    "id": "Myntra Kotak Credit Card",
+    "title": "Myntra Kotak Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.7/5",
+    "annual_fee": [
+      "₹500 + GST (Joining)",
+      "₹500 + GST (Renewal)",
+      "Waived on spending Rs. 2 Lakhs in the anniversary year"
+    ],
+    "rewards": [
+      "7.5% discount on Myntra spends, capped at Rs. 750 per transaction",
+      "5% cashback on partner brands like Swiggy, PVR, Urban Company, etc., capped at Rs. 1000 per cycle",
+      "Unlimited 1.25% cash back on other online and offline spends",
+      "Welcome Benefit: Myntra voucher worth Rs. 500 on making 1 transaction above Rs. 500 within 30 days of card issuance"
+    ],
+    "benefits": [
+      "Complimentary Myntra Insider program membership",
+      "1 complimentary domestic lounge access per quarter",
+      "2 complimentary PVR movie tickets worth Rs. 250 on spends of Rs. 50,000 per quarter",
+      "1% fuel surcharge waiver on transactions between Rs. 500 to Rs. 3000"
+    ],
+    "why_to_recommend": "Exclusive discounts on Myntra, cashback on partner brands, complimentary Myntra Insider membership, and lounge access make it ideal for fashion enthusiasts.",
+    "best_suited_for": ["Shopping", "Fashion", "Online Shopping"],
+    "eligibility": [],
+    "cta": ["https://cardinsider.com/kotak/myntra-kotak-credit-card/#"],
+    "tags": [
+      "Myntra",
+      "Kotak",
+      "Fashion",
+      "E-commerce",
+      "Cashback",
+      "Discount",
+      "Lounge Access",
+      "Welcome Benefit"
+    ]
+  },
+  {
+    "id": "kotak-811-credit-card",
+    "title": "Kotak 811 Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.4/5",
+    "annual_fee": ["Rs. 500 + GST (Joining)", "Rs. 500 + GST (Renewal)"],
+    "rewards": [
+      "1 Reward Point per Rs. 100 on offline spends",
+      "2 Reward Points per Rs. 100 on online spends",
+      "1 Reward Point = Rs. 0.25"
+    ],
+    "welcome_bonus": "500 Bonus Reward Points on expenditure of Rs. 5,000 within 45 days of card issuance.",
+    "milestones": [
+      "4 PVR tickets on spending Rs. 75,000 in a year",
+      "Rs. 750 cashback on spending Rs. 75,000 in a year"
+    ],
+    "benefits": [
+      "Movie & Dining: Option to get 4 PVR tickets on spending Rs. 75,000 in a year.",
+      "Insurance Benefits: Lost card cover worth Rs. 50,000 applicable 7 days prior to reporting the loss of card",
+      "Railway Surcharge Waiver: 1.8% surcharge waived on IRCTC website/app, 2.5% on railway counters (max waiver Rs. 500/year).",
+      "Fuel Surcharge Waiver: 1% waived on transactions between Rs. 500 and Rs. 3,000 (max waiver Rs. 3,500/year)."
+    ],
+    "waiver_condition": "Annual fee waived off on spending a minimum of Rs. 50,000 in the preceding year.",
+    "why_to_recommend": "Affordable annual fee, decent reward rate, good for new-to-credit individuals.",
+    "best_suited_for": "Shopping, New-to-credit individuals, Millennials",
+    "eligibility": ["Age: 18-65 years (primary cardholder)", "Must be a resident of India"],
+    "cta": ["https://cardinsider.com/kotak/kotak-811-credit-card/"],
+    "tags": [
+      "entry-level",
+      "rewards",
+      "shopping",
+      "movie",
+      "dining",
+      "insurance",
+      "fuel surcharge waiver",
+      "railway surcharge waiver"
+    ]
+  },
+  {
+    "id": "indianoil-kotak-credit-card",
+    "title": "IndianOil Kotak Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.5/5",
+    "annual_fee": [
+      "Rs. 449 + GST (Joining)",
+      "Rs. 449 + GST (Renewal)",
+      "Waived on spends of Rs. 50,000 or more in the previous year"
+    ],
+    "rewards": [
+      "Welcome Benefit: 1000 Reward Points on spending Rs. 500 or more within 30 days of getting the card",
+      "Fuel Spends: 24 Reward Points on every Rs. 150 spent (Max 1200 points/month)",
+      "Grocery & Dining: 12 Reward Points on every Rs. 150 spent (Max 800 points/month)",
+      "Other Spends: 3 Reward Points on every Rs. 150 spent"
+    ],
+    "benefits": [
+      "Personal accident insurance cover worth Rs. 2 Lakhs",
+      "1% fuel surcharge waiver on fuel spends between Rs. 100 and Rs. 5,000 at IndianOil pumps (Max Rs. 100 per statement cycle)",
+      "Rupay Contactless payment up to Rs. 5,000 without PIN",
+      "Personal concierge services"
+    ],
+    "why_to_recommend": "Great entry-level card for those new to credit, offering excellent fuel-based benefits and other rewards. Can help earn up to 60 liters of free fuel annually.",
+    "best_suited_for": "Fuel",
+    "eligibility": [
+      "Resident of India",
+      "Age: 18-65 years",
+      "Stable source of income and necessary documents"
+    ],
+    "cta": [
+      "https://cardinsider.com/kotak/indianoil-kotak-credit-card/#",
+      "https://cardinsider.com/kotak/indianoil-kotak-credit-card/#"
+    ],
+    "tags": ["Fuel", "Rewards", "Welcome Bonus", "Insurance", "Contactless Payment"]
+  },
+  {
+    "id": "indusind-bank-avios-visa-infinite-credit-card",
+    "title": "IndusInd Bank Avios Visa Infinite Credit Card",
+    "issuer": "IndusInd Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.6/5",
+    "annual_fee": ["₹10,000 + GST (Joining)", "₹5,000 + GST (Renewal)", "N/A (Waiver Condition)"],
+    "rewards": [
+      "6X Avios/₹200 at Preferred Destinations (POS Only)",
+      "5X Avios/₹200 for Spends on Qatar/British Airways Website",
+      "3X Avios/₹200 for Online Spends at Preferred Destinations",
+      "1X Avios/₹200 for Spends on Utilities, Insurance and Government Services",
+      "20,000 Bonus Avios (Welcome Bonus)",
+      "Up to 36,000 Avios as milestone benefit",
+      "5,000 Bonus Avios (Renewal Benefit)",
+      "Avios earned can be redeemed against a host of different options at the Qatar Airways or British Airways website"
+    ],
+    "benefits": [
+      "Airport meet and greet",
+      "Complimentary domestic and international lounge access",
+      "10% discount on Qatar Airways flights from India",
+      "2 domestic lounge access per quarter",
+      "2 international lounge access per quarter with Priority Pass",
+      "Travel Insurance, Air Accident Cover, and International Travel Health Insurance",
+      "1% Fuel Surcharge Waiver for Fuel Spends Between ₹500 and ₹10,000",
+      "Total Protect program against fraudulent activity",
+      "Personal concierge service",
+      "Elderly Care Assist",
+      "International Events access",
+      "Gift and flower delivery assistance",
+      "Hotel referral and reservation bookings",
+      "Dining referrals and reservation bookings"
+    ],
+    "why_to_recommend": "This card is ideal for frequent travelers who want to maximize their rewards and enjoy premium travel benefits, especially those who fly with Qatar Airways or British Airways. The accelerated rewards on preferred destinations, lounge access, and travel insurance make it a strong contender.",
+    "best_suited_for": "Travel",
+    "eligibility": [],
+    "cta": [
+      "https://cardinsider.com/go/indusind (Apply Now)",
+      "https://cardinsider.com/indusind-bank/indusind-bank-avios-visa-infinite-credit-card/ (Learn More)"
+    ],
+    "tags": [
+      "IndusInd Bank",
+      "Avios",
+      "Visa Infinite",
+      "Travel Credit Card",
+      "Airline Co-branded",
+      "Qatar Airways",
+      "British Airways"
+    ]
+  },
+  {
+    "id": "indusind-bank-platinum-rupay-credit-card",
+    "title": "IndusInd Bank Platinum RuPay Credit Card",
+    "issuer": "IndusInd Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.6/5",
+    "annual_fee": null,
+    "rewards": [
+      "2 Reward Points for every Rs. 100 Spent on UPI",
+      "1 Reward Point for each Rs. 100 Non-UPI Transaction",
+      "1 RP = Rs 0.35",
+      "400 Reward Points = 100 KrisFlyer miles"
+    ],
+    "benefits": [
+      "Travel Insurance (Lost Baggage: ₹ 1,00,000, Delayed Baggage: ₹ 25,000, Loss of Passport: ₹ 50,000, Lost Ticket: ₹ 25,000, Missed Connection: ₹ 25,000)",
+      "1% Fuel Surcharge Waiver (up to Rs. 480 per annum)"
+    ],
+    "why_to_recommend": "This card is most suited for people who make regular payments through UPI. It is a lifetime free credit card with no annual or renewal charges, making it ideal for beginners or first-time cardholders to build their credit score.",
+    "best_suited_for": "Shopping, UPI Transactions",
+    "eligibility": null,
+    "cta": ["https://cardinsider.com/go/indusind"],
+    "tags": ["RuPay", "UPI", "Lifetime Free"]
+  },
+  {
+    "id": "EazyDinerIndusIndBankCreditCard",
+    "title": "EazyDiner IndusInd Bank Credit Card",
+    "issuer": "IndusInd Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.6/5",
+    "annual_fee": ["₹2,999 + GST (Joining)", "₹2,999 + GST (Renewal)"],
+    "rewards": [
+      "10 Reward Points/₹100 spent on hotels, travel, entertainment, and shopping",
+      "4 Reward Points/₹100 on all other eligible retail spend",
+      "No Reward Points for dining spends",
+      "3X EazyPoints on making payments via the EazyDiner IndusInd Card",
+      "1 Reward Point = ₹0.10"
+    ],
+    "welcome_bonus": "2,000 Bonus EazyPoints, Complimentary Membership of EazyDiner Prime, and Postcard Hotel Stay Voucher Worth ₹7,500",
+    "milestones": null,
+    "benefits": [
+      "50% Discount on Dining via EazyDiner",
+      "Complimentary EazyDiner Prime annual membership",
+      "Postcard Hotels stay voucher worth ₹7,500",
+      "25% discount on dining bills when paying via Payeazy on EazyDiner",
+      "Additional 25% up to ₹1,000 off on paying bills using the EazyDiner IndusInd Bank Credit Card via PayEazy on the EazyDiner app (capped at ₹2,000 per month)",
+      "Free premium alcoholic beverage for each guest at selected restaurants nationwide",
+      "1% waiver on fuel surcharge on fuel purchases between ₹500 and ₹3,000 (capped at ₹250 per statement cycle)"
+    ],
+    "travel": "Postcard Hotels Stay Voucher as Welcome and Renewal Benefit",
+    "lounge_access": "N/A",
+    "dining": "Up to 50% extra discount on dining-related expenses via EazyDiner",
+    "golf": "N/A",
+    "insurance": "N/A",
+    "why_to_recommend": "Excellent choice for those who frequently dine out, offering high discounts and cashback on ordering food online.",
+    "best_suited_for": ["Travel", "Food"],
+    "eligibility": [
+      "Age: Above 21",
+      "Income: Stable Income as a Salaried or Self-Employed Individual",
+      "Credit Score: Decent Credit Score (750 or Above)"
+    ],
+    "cta": [
+      "Apply Now: https://cardinsider.com/go/indusind",
+      "Learn More: https://cardinsider.com/indusind-bank/eazydiner-indusind-bank-credit-card/"
+    ],
+    "tags": ["IndusInd Bank", "EazyDiner", "Credit Card", "Dining", "Travel", "Rewards"]
+  },
+  {
+    "id": "IDFC FIRST Millennia Credit Card",
+    "title": "IDFC FIRST Millennia Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.6/5",
+    "annual_fee": ["Nil", "Nil", "N/A"],
+    "rewards": [
+      "Reward Points",
+      "3X Reward Points Till Spends of ₹20,000. 10X Reward Points After Incremental Spends of ₹20,000",
+      "5% cashback on first EMI spend up to Rs. 1,000 and additional welcome gift vouchers worth Rs. 500 on spending Rs. 5,000 within 30 days of card generation",
+      "10X Reward Points after achieving incremental spends of ₹20,000 or more in a month. 3X Reward Points until a spend of ₹20,000 is reached. 1X Reward Points for insurance and utility spending. Earn 50 Reward Points/₹150 for hotels and 20 Reward Points/₹150 for flight bookings via the IDFC Travel & Shop portal. A maximum of 8,000 accelerated Reward Points can be earned each month."
+    ],
+    "benefits": [
+      "25% Discount Up to ₹100 on District App. 20% Discount on Popular Restaurants",
+      "Four Free Railway Lounge Access Each Quarter (Spend ₹20,000 Each Month to Unlock)",
+      "N/A",
+      "N/A",
+      "Personal Accidental Cover Worth ₹2 Lakh and Lost Card Liability Cover of ₹25,000",
+      "Complimentary roadside assistance worth ₹1399",
+      "Fuel surcharge waiver on all fuel purchases up to ₹200 per month."
+    ],
+    "why_to_recommend": "With this card, you get complimentary railway lounge access, which is highly beneficial for domestic travelers who prefer to travel by railway. This card has a great advantage as it is a lifetime free card.",
+    "best_suited_for": ["Movies", "Shopping"],
+    "eligibility": [
+      "At least 21 years old",
+      "Annual income should be more than ₹3 Lakh",
+      "Decent credit score with no payment defaults (Preferably above 700)"
+    ],
+    "cta": [
+      "https://cardinsider.com/go/idfcbank",
+      "https://cardinsider.com/idfc-first-bank/idfc-first-millennia-card/#"
+    ],
+    "tags": [
+      "entry-level card",
+      "reward points-based credit card",
+      "lifetime free credit card",
+      "travel",
+      "dining",
+      "movies",
+      "shopping",
+      "insurance"
+    ]
+  },
+  {
+    "id": "IDFC_First_Bank_Mayura_Credit_Card",
+    "title": "IDFC First Bank Mayura Credit Card",
+    "issuer": "IDFC First Bank",
+    "image": "https://cardinsider.com/wp-content/uploads/2024/01/IDFC-Bank-Mayura-Credit-Card.png",
+    "rating": "4.8/5",
+    "annual_fee": [
+      "₹5,999 + GST (~₹7,079) (joining)",
+      "₹5,999 + GST (~₹7,079) (renewal)",
+      "N/A (waiver_condition)"
+    ],
+    "rewards": [
+      "10X Reward Points/₹150 on incremental spends above ₹20,000 per statement cycle",
+      "5X Reward Points/₹150 on spends up to ₹20,000 per statement cycle",
+      "3X Reward Points/₹150 on rent, wallet load, education, and government transactions",
+      "1X Reward Points/₹150 on insurance and utilities",
+      "Up to 12,000 Reward Points (welcome_bonus)",
+      "1 RP = ₹0.50 for Travel Bookings Via IDFC Travel & Shop, ₹0.25 Everywhere Else (redemption)",
+      "50 Bonus Reward Points/₹150 on Hotels (16.66% reward rate)",
+      "30 Bonus Reward Points/₹150 on Flights (10% reward rate)",
+      "Maximum 25,000 Bonus Reward Points each month",
+      "Maximum 300,000 Reward Points redemption per year"
+    ],
+    "benefits": [
+      "BOGO on Movie Tickets Upto ₹500, twice each month",
+      "Zero Foreign Exchange charges on international transactions",
+      "Up to 3.33% rewards for international transactions",
+      "4 Complimentary Railway Lounge Access each Quarter (16 per year)",
+      "4 Free Visits Across the Country Each Quarter (16 per year) to Domestic Airport Lounges",
+      "One Additional Free Guest Visit Each Quarter to Domestic Airport Lounges",
+      "4 Free Visits Each Quarter (16 per year) to International Airport Lounges",
+      "2 Free Golf Rounds/Golf Lessons Each Month",
+      "Purchase Protection",
+      "Travel Insurance",
+      "Free Trip Cancellation Cover (up to ₹50,000 twice a year)",
+      "Flat ₹5,000 Off on The Postcard Hotels & Resorts on a minimum booking of ₹25,000 (once per calendar quarter)",
+      "7,500 Reward Points (worth up to ₹3,750) on spending ₹8 Lakhs in the previous card anniversary year",
+      "15,000 Reward Points (worth up to ₹7,500) on spending ₹15 Lakhs in the previous card anniversary year"
+    ],
+    "why_to_recommend": "Ideal for travelers, especially those who travel abroad frequently, due to zero forex charges, extensive lounge access, and travel insurance. Also beneficial for those who make significant spends and can leverage the accelerated reward points and milestone benefits.",
+    "best_suited_for": "Travelers, High Spenders, Frequent International Travelers",
+    "eligibility": [
+      "Age: Not specified",
+      "Income: Not specified",
+      "Credit Score: Not specified (can apply on card-to-card basis)"
+    ],
+    "cta": [
+      "https://cardinsider.com/go/idfc-mayura (Apply Now)",
+      "https://cardinsider.com/idfc-first-bank/mayura-credit-card/ (Learn More)"
+    ],
+    "tags": [
+      "Travel",
+      "Lounge Access",
+      "Golf",
+      "Insurance",
+      "Rewards",
+      "Welcome Bonus",
+      "Movie Offers",
+      "Forex Benefits"
+    ]
+  },
+  {
+    "id": "IDFC HPCL First Power Plus Credit Card",
+    "title": "IDFC HPCL First Power Plus Credit Card",
+    "issuer": "IDFC First Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.7/5",
+    "annual_fee": ["₹499 + GST (Joining)", "₹499 + GST (Renewal)"],
+    "rewards": [
+      "30X Reward Points on HPCL Fuel up to 2,400 Reward Points per statement cycle",
+      "5% cashback (up to ₹1,000 capped) on the transaction value of the first EMI",
+      "5% as reward on grocery and utility expenses (max cap ₹2,000 per month)",
+      "5% as rewards on IDFC FIRST FASTag recharge (max cap ₹1,000 per month)",
+      "3X rewards on all other retail transactions",
+      "3X Reward Points on UPI transactions (except Fuel, Insurance, and EMI)"
+    ],
+    "welcome_bonus": "₹500 gift voucher on first HPCL fuel transaction above ₹500",
+    "milestones": null,
+    "benefits": [
+      "25% off on movie tickets up to ₹100 once per month",
+      "Complimentary Roadside Assistance Worth ₹1,399",
+      "Personal accident cover of ₹2 lakh",
+      "Lost card liability cover of ₹25,000",
+      "Complimentary domestic airport lounge access once every quarter on a minimum monthly spending of ₹20,000"
+    ],
+    "travel": "Complimentary Roadside Assistance Worth ₹1,399",
+    "lounge_access": "1 Complimentary Domestic Lounge Access Every Quarter (4 Each Year)",
+    "dining": "25% off on movie tickets up to ₹100 once per month",
+    "golf": null,
+    "insurance": "Personal accident cover of ₹2 lakh and lost card liability cover of ₹25,000",
+    "why_to_recommend": "This card is well-suited for fuel use, but it also offers other benefits, proving that it can help save money through everyday shopping. For frequent travelers and people who refill their tanks, this credit card is a perfect approach to saving money.",
+    "best_suited_for": "Fuel",
+    "eligibility": [
+      "Indian citizen",
+      "Minimum age of 21",
+      "Decent credit/CBIL Score",
+      "Annual income of ₹3 lakh or more"
+    ],
+    "cta": [
+      "https://cardinsider.com/go/idfcpower (Apply Now)",
+      "https://cardinsider.com/idfc-first-bank/idfc-hpcl-first-power-plus-credit-card/# (Rewards and Benefits)",
+      "https://cardinsider.com/idfc-first-bank/idfc-hpcl-first-power-plus-credit-card/# (Fees & Charges)",
+      "https://cardinsider.com/idfc-first-bank/idfc-hpcl-first-power-plus-credit-card/# (Product Details)",
+      "https://cardinsider.com/idfc-first-bank/idfc-hpcl-first-power-plus-credit-card/# (Pros/Cons)"
+    ],
+    "tags": ["Fuel", "Movie & Dining", "Travel", "Domestic Lounge Access", "Insurance Benefits"],
+    "waiver_condition": "₹1,50,000 spent in the previous year"
+  },
+  {
+    "id": "RBL Platinum Delight Credit Card",
+    "title": "RBL Platinum Delight Credit Card",
+    "issuer": "RBL Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "3.8/5",
+    "annual_fee": [
+      "Rs. 1,000 + GST",
+      "Rs. 1,000 + GST",
+      "Waived if you spend Rs. 2 lakh or more in a year."
+    ],
+    "rewards": [
+      "2 Reward Points on every Rs. 100 spent on weekdays.",
+      "4 Reward Points on every Rs. 100 spent on weekends.",
+      "4,000 Reward Points",
+      "1,000 bonus points every month on swiping your card 5 times for transactions worth Rs. 1,000 each month.",
+      "1 RP = Rs. 0.25"
+    ],
+    "benefits": [
+      "1% fuel surcharge waiver on all transactions between Rs. 500 and Rs. 4,000.",
+      "Welcome gift of 4,000 Reward Points.",
+      "Spend-based monthly bonus Reward Points.",
+      "Spend-based annual fee waiver."
+    ],
+    "why_to_recommend": "If you want to save on all your purchases, then the RBL Platinum Delight credit card would be a great choice for you. It comes with exclusive reward offers and other spend-based benefits, such as renewal fee waivers, monthly bonus reward points, etc. What makes it even more advantageous is it offers you 2x Reward Points on weekends, and there is a high chance that you will spend more on weekends than on weekdays. These reward points can be redeemed against various options through their dedicated website with a nominal redemption fee. So, you can go with the card if you make purchases more often on the weekends and if you are looking for a card to let you save more.",
+    "best_suited_for": "Shopping",
+    "eligibility": [],
+    "cta": ["https://cardinsider.com/rbl-bank/rbl-platinum-delight-credit-card/"],
+    "tags": ["rewards", "spend-based waiver", "fuel surcharge waiver", "welcome bonus"]
+  },
+  {
+    "id": "hsbc-visa-platinum-credit-card",
+    "title": "HSBC Visa Platinum Credit Card",
+    "issuer": "HSBC Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.3/5",
+    "annual_fee": ["Nil", "Nil", "N/A"],
+    "rewards": ["Reward Points", "2 Reward Points/₹150 Spent", "N/A", "N/A"],
+    "benefits": [
+      "BOGO on Movie Ticket Bookings via BookMyShow. Upto 15% Dining Discounts via EazyDiner",
+      "N/A",
+      "N/A",
+      "N/A",
+      "1% fuel surcharge waiver"
+    ],
+    "why_to_recommend": "This is a must-have card for periodic HSBC discounts and offers on various brands. The fuel surcharge waiver and zero liability protection against a lost card are also among the key features of the card.",
+    "best_suited_for": "Shopping",
+    "eligibility": [
+      "18 years to 65 years",
+      "Minimum monthly income of ₹4 lakhs",
+      "Salaried individuals only. Self-employed people can apply only if they have a savings/current account in HSBC."
+    ],
+    "cta": ["Apply Now", "Learn More"],
+    "tags": ["entry-level", "lifetime free", "entertainment", "lifestyle"]
+  },
+  {
+    "id": "HSBC Live+ Credit Card",
+    "title": "HSBC Live+ Credit Card – Cashback on Groceries",
+    "issuer": "HSBC Bank",
+    "image": "https://cardinsider.com/wp-content/uploads/2024/06/HSBC-Live-Credit-Card.webp",
+    "rating": "4.6/5",
+    "annual_fee": ["Rs. 999 + GST (Joining)", "Rs. 999 + GST (Renewal)"],
+    "rewards": [
+      "10% Cashback on Dining, Food, and Grocery Spends.",
+      "1.5% On All Other Eligible Spends"
+    ],
+    "welcome_bonus": "₹1,000 Cashback on Spending ₹20,000 in the First 30 Days",
+    "milestones": "Renewal fee waived on expenditure of Rs. 2,00,000 in the previous year",
+    "benefits": [
+      "Buy 2 Get 1 Free offer on movies on Saturdays & Up to 15% discount at over 1,000 restaurants across major cities in India.",
+      "4 complimentary domestic lounge access per annum (one each quarter)",
+      "Insurance cover worth Rs. 3,00,000 against misuse of the card from up to 24 hours prior to the time of reporting the loss of card."
+    ],
+    "why_to_recommend": "If online shopping accounts for a large majority of your credit card spends, this card is certainly worth considering. Also, you don’t have to worry about reward redemption, as the cashback amount is automatically credited back within 45 days of the statement date. This makes things easier as you don’t have to be tied to specific brands for reward redemption.",
+    "best_suited_for": "Shopping | Food",
+    "eligibility": [
+      "Must be an Indian citizen.",
+      "Age between 18 and 65 years.",
+      "Should be earning a minimum of ₹4,00,000 per annum (for salaried individuals).",
+      "Must be a resident of Chennai, Gurgaon, Delhi National Capital Region (NCR), Pune, Noida, Hyderabad, Mumbai, Bangalore, Kochi, Coimbatore, Jaipur, Chandigarh, Ahmedabad or Kolkata."
+    ],
+    "cta": ["Apply Now", "More Details"],
+    "tags": ["Cashback", "Groceries", "Dining", "Online Shopping", "Movies", "Lounge Access"]
+  },
+  {
+    "id": "standard-chartered-platinum-rewards-credit-card",
+    "title": "Standard Chartered Platinum Rewards Credit Card",
+    "issuer": "Standard Chartered",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.3/5",
+    "annual_fee": ["Rs. 250 (Joining)", "Rs. 250 (Renewal)"],
+    "rewards": [
+      "1 reward point per Rs 150 on all categories",
+      "5 reward points per Rs 150 on dining and fuel transactions",
+      "Reward points redeemable against retail items and vouchers at a rate of 1 RP = Re. 0.25"
+    ],
+    "welcome_bonus": "Exclusive offers worth more than the joining fee",
+    "milestones": "Up to 100% cashback on dining spends within ninety days of card issuance",
+    "benefits": [
+      "Lifetime free if you spend Rs. 500 in the first 30 days of card issuance",
+      "No monthly capped limit on purchases"
+    ],
+    "why_to_recommend": "Good reward rate on spending on all categories, and also get up to 5x reward points per 150 spent on dining and fuel. Good for people with no credit background.",
+    "best_suited_for": ["Dining", "Fuel"],
+    "eligibility": [
+      "Age: 21-65 years",
+      "Minimum Gross Monthly Income: Rs 20,000/- (Salaried or Self-employed)"
+    ],
+    "cta": ["Apply Now"],
+    "tags": ["entry-level credit card", "rewards", "dining", "fuel"]
+  },
+  {
+    "id": "YES Bank RESERV Credit Card",
+    "title": "YES Bank RESERV Credit Card",
+    "issuer": "Yes Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.5/5",
+    "annual_fee": ["₹2,499 + GST (Joining)", "₹2,499 + GST (Renewal)"],
+    "rewards": [
+      "24 Reward Points for every Rs. 200 spent online",
+      "12 Reward Points for every Rs. 200 spent on offline shopping",
+      "6 RPs on select categories"
+    ],
+    "welcome_bonus": "N/A",
+    "milestones": "8,000 Reward Points on payment of renewal charges",
+    "benefits": [
+      "Complimentary access to both international and domestic airport lounges",
+      "Lowest foreign currency markups (1.75%)",
+      "Complimentary rounds of golf",
+      "Movie ticket bookings at a discounted rate",
+      "12 Domestic Lounge Visits Every Year (3 Per Quarter) on Spending ₹1 Lakh or More in the Previous Quarter",
+      "6 Lounge Visits Outside India Each Year",
+      "4 Complimentary Rounds of Golf With Green Fee Waived and 1 Complimentary Golf Lesson Per Year",
+      "Insurance coverage worth Rs. 3 crore for air accident death, Rs. 50 lakh for overseas hospitalization, and Credit Shield cover up to Rs. 10 lakh",
+      "1% fuel surcharge waiver on transactions between Rs. 400 and Rs. 5000 (capped at Rs. 1000 per month)"
+    ],
+    "why_to_recommend": "Low foreign currency markup, complimentary golf, and lounge access make it a lucrative offering in the premium segment.",
+    "best_suited_for": ["Travel", "Shopping"],
+    "eligibility": [
+      "Resident of India",
+      "Age between 21 and 60 years",
+      "Minimum monthly income of ₹2 lakh or annual income of ₹18 lakh or above"
+    ],
+    "cta": ["Apply Now"],
+    "tags": [
+      "Yes Bank",
+      "RESERV Credit Card",
+      "First Exclusive Credit Card",
+      "Premium Credit Card",
+      "Travel Credit Card",
+      "Golf Credit Card",
+      "Lounge Access Credit Card"
+    ],
+    "waiver_condition": [
+      "Joining Fee waived on spending Rs. 40,000 within 30 days of card issuance.",
+      "Renewal Fee waived on annual spends of Rs. 3 Lakh or more."
+    ],
+    "rewards_rate": "24 Reward Points for every Rs. 200 spent online. 12 Reward Points for every Rs. 200 spent on offline shopping and 6 RPs on select categories",
+    "reward_redemption": "Reward Points Can be Redeemed on the YesRewardz Portal Against Multiple Options",
+    "foreign_currency_markup": "1.75%",
+    "travel": "N/A",
+    "domestic_lounge_access": "12 Domestic Lounge Visits Every Year (3 Per Quarter) on Spending ₹1 Lakh or More in the Previous Quarter",
+    "international_lounge_access": "6 Lounge Visits Outside India Each Year",
+    "golf": "4 Complimentary Rounds of Golf With Green Fee Waived and 1 Complimentary Golf Lesson Per Year",
+    "insurance_benefits": "Insurance coverage is worth Rs. 3 crore if the cardholder's life is lost due to an air accident, and medical insurance is worth Rs. 50 lakh in case of emergency overseas hospitalization and a Credit Shield cover (up to Rs. 10 lakh) against outstanding card dues in the unfortunate event of the primary cardholder's death.",
+    "apply_link": "https://cardinsider.com/yes-bank/yes-bank-first-exclusive-credit-card/",
+    "learn_more": "https://cardinsider.com/yes-bank/yes-bank-first-exclusive-credit-card/"
+  },
+  {
+    "id": "YES_ELITE_PLUS_CREDIT_CARD",
+    "title": "YES Elite+ Credit Card",
+    "issuer": "Yes Bank",
+    "image": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+    "rating": "4.5/5",
+    "annual_fee": ["Rs. 999 + GST (Joining)", "Rs. 999 + GST (Renewal)"],
+    "rewards": [
+      "12 Reward Points/₹200 spent online (capped at 12,000 RPs per statement cycle)",
+      "6 Reward Points/₹200 spent offline",
+      "4 Reward Points/₹200 spent on utilities, government services, education, and insurance payments (capped at 300 RPs per statement cycle for utility payments)",
+      "Reward Points are valid for 36 months",
+      "No Reward Points on fuel, rental payments, wallet transactions, EMI spends, and cash withdrawals"
+    ],
+    "welcome_bonus": "N/A",
+    "benefits": [
+      "25% discount on movie bookings on BookMyShow (up to ₹250 per month)",
+      "Up to 25% discount on dining at select restaurants",
+      "2 complimentary domestic lounge access per quarter (spending criteria applies from April 1st, 2024)",
+      "3 complimentary international lounge access per year",
+      "4 green fee waivers at selected golf courses in India",
+      "1 complimentary golf lesson per month at selected golf courses in India",
+      "Credit Shield Cover worth ₹3 lakhs",
+      "Lost card liability up to ₹3 lakhs",
+      "Purchase Protection Plan up to ₹50,000",
+      "1% fuel surcharge waiver on transactions between ₹400 and ₹5,000 (max benefit ₹250 per month)",
+      "Low foreign currency markup fee of 2.75%"
+    ],
+    "why_to_recommend": "Ideal for individuals seeking exclusive benefits like lounge access, golf privileges, movie discounts, and a low foreign currency markup fee at a reasonable joining fee.",
+    "best_suited_for": ["Movies", "Travel", "Shopping", "Dining"],
+    "eligibility": [
+      "Age: 21 to 60 years",
+      "Salaried or self-employed",
+      "Income: Minimum ₹1 lakh per month or Income Tax Return of ₹9 lakhs or more"
+    ],
+    "cta": ["Apply Now", "Learn More"],
+    "tags": ["Premium", "Travel", "Dining", "Shopping", "Movies", "Golf", "Insurance"]
+  }
+]

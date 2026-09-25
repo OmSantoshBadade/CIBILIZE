@@ -1,0 +1,27 @@
+date,category,merchant,description,payment_method,amount,currency,status
+2026-05-01,Food,Starbucks,Coffee and sandwich,Credit Card,12.50,USD,Completed
+2026-05-01,Transport,Uber,Ride to office,UPI,8.90,USD,Completed
+2026-05-02,Shopping,Amazon,Mechanical keyboard,Debit Card,89.99,USD,Completed
+2026-05-02,Bills,Spotify,Monthly subscription,Credit Card,9.99,USD,Completed
+2026-05-03,Food,McDonald's,Lunch meal,Cash,15.20,USD,Completed
+2026-05-03,Entertainment,Netflix,Monthly plan,Credit Card,14.99,USD,Completed
+2026-05-04,Health,Pharmacy,Medicines,UPI,24.75,USD,Completed
+2026-05-04,Travel,Airbnb,Weekend booking,Credit Card,220.00,USD,Pending
+2026-05-05,Groceries,Walmart,Weekly groceries,Debit Card,134.60,USD,Completed
+2026-05-05,Utilities,Electric Company,Electricity bill,Bank Transfer,68.30,USD,Completed
+2026-05-06,Food,Domino's,Pizza dinner,Credit Card,27.45,USD,Completed
+2026-05-06,Shopping,Apple,AirPods purchase,Credit Card,199.00,USD,Completed
+2026-05-07,Transport,Shell,Fuel refill,Debit Card,54.20,USD,Completed
+2026-05-07,Bills,Internet Provider,Monthly WiFi bill,Bank Transfer,49.99,USD,Completed
+2026-05-08,Entertainment,Steam,Game purchase,Credit Card,39.99,USD,Completed
+2026-05-08,Food,Subway,Sandwich and drink,Cash,11.80,USD,Completed
+2026-05-09,Health,Gym Membership,Monthly membership,UPI,45.00,USD,Completed
+2026-05-09,Shopping,Nike,Running shoes,Credit Card,129.99,USD,Completed
+2026-05-10,Travel,Uber,Ride to airport,UPI,32.10,USD,Completed
+2026-05-10,Food,Local Cafe,Breakfast,Cash,9.40,USD,Completed
+2026-05-11,Groceries,Costco,Bulk groceries,Debit Card,186.25,USD,Completed
+2026-05-11,Bills,Adobe,Creative Cloud subscription,Credit Card,54.99,USD,Completed
+2026-05-12,Entertainment,Cinema,Movie tickets,Credit Card,26.00,USD,Completed
+2026-05-12,Transport,Metro Card,Monthly recharge,UPI,30.00,USD,Completed
+2026-05-13,Food,KFC,Dinner meal,Debit Card,18.60,USD,Completed
+2026-05-13,Utilities,Water Supply,Water bill,Bank Transfer,22.15,USD,Completed

@@ -1,0 +1,60 @@
+{
+  "totalSteps": 5,
+  "totalSubsteps": 25,
+  "steps": {
+    "Personal Information": {
+      "substeps": 5,
+      "substepNames": ["Age", "Income", "Occupation", "Credit Card Experience", "Credit Score"],
+      "icon": "🧩",
+      "description": "Age, Income, Occupation"
+    },
+    "Spending Habits": {
+      "substeps": 5,
+      "substepNames": [
+        "Spending Categories",
+        "Monthly Spend",
+        "Payment Preference",
+        "Food Delivery",
+        "Shopping Platforms"
+      ],
+      "icon": "💳",
+      "description": "Categories, Amount, Platforms"
+    },
+    "Benefit Preferences": {
+      "substeps": 4,
+      "substepNames": [
+        "Priority Benefits",
+        "Reward Type",
+        "Redemption Preference",
+        "Milestone Rewards"
+      ],
+      "icon": "🎁",
+      "description": "Rewards, Redemption"
+    },
+    "Lifestyle & Travel": {
+      "substeps": 7,
+      "substepNames": [
+        "Travel Frequency",
+        "Travel Type",
+        "Lounge Access",
+        "Golf Interest",
+        "Dining Frequency",
+        "Movie Frequency",
+        "Luxury Preferences"
+      ],
+      "icon": "✈️",
+      "description": "Travel, Dining, Entertainment"
+    },
+    "Fee Preferences": {
+      "substeps": 4,
+      "substepNames": [
+        "Annual Fee Tolerance",
+        "Fee Waiver Preference",
+        "Card Tier",
+        "Preferred Banks"
+      ],
+      "icon": "💰",
+      "description": "Budget, Banks, Tiers"
+    }
+  }
+}

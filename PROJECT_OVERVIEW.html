@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cibilize — Project Overview</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg: #fafafa;
+        --surface: #ffffff;
+        --text: #111418;
+        --muted: #5b6470;
+        --border: #e6e8eb;
+        --accent: #1f6feb;
+        --accent-soft: #eaf2ff;
+        --chip: #f2f4f7;
+        --radius: 10px;
+      }
+      * { box-sizing: border-box; }
+      html, body { margin: 0; padding: 0; }
+      body {
+        font-family: "Inter", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        line-height: 1.6;
+        font-size: 16px;
+        -webkit-font-smoothing: antialiased;
+      }
+      .wrap { max-width: 880px; margin: 0 auto; padding: 56px 24px 96px; }
+      header.hero { margin-bottom: 40px; }
+      .eyebrow {
+        font-size: 12px;
+        font-weight: 600;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--accent);
+        margin-bottom: 12px;
+      }
+      h1 {
+        font-size: 40px;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        margin: 0 0 12px;
+      }
+      h2 {
+        font-size: 22px;
+        font-weight: 600;
+        letter-spacing: -0.01em;
+        margin: 48px 0 16px;
+        padding-bottom: 8px;
+        border-bottom: 1px solid var(--border);
+      }
+      h3 {
+        font-size: 17px;
+        font-weight: 600;
+        margin: 28px 0 8px;
+      }
+      p { margin: 0 0 14px; color: #2b3138; }
+      p.lede { font-size: 17px; color: var(--muted); max-width: 70ch; }
+      strong { color: var(--text); }
+      ul { padding-left: 20px; margin: 0 0 14px; }
+      li { margin-bottom: 6px; }
+      code, .mono {
+        font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+        font-size: 13px;
+        background: var(--chip);
+        padding: 1px 6px;
+        border-radius: 6px;
+      }
+      .card {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        padding: 20px 22px;
+        margin-bottom: 16px;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 14px;
+      }
+      .feature h3 { margin-top: 0; }
+      .feature p { color: var(--muted); font-size: 14.5px; margin: 0; }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 14.5px;
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        overflow: hidden;
+      }
+      th, td {
+        text-align: left;
+        padding: 12px 14px;
+        border-bottom: 1px solid var(--border);
+        vertical-align: top;
+      }
+      th {
+        background: #f7f8fa;
+        font-weight: 600;
+        font-size: 13px;
+        letter-spacing: 0.02em;
+        color: var(--muted);
+        text-transform: uppercase;
+      }
+      tr:last-child td { border-bottom: 0; }
+      .diagram {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        padding: 20px;
+        margin: 8px 0 18px;
+        overflow-x: auto;
+      }
+      .diagram .mermaid { text-align: center; }
+      .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+      .chip {
+        background: var(--chip);
+        border: 1px solid var(--border);
+        color: #333;
+        font-size: 12.5px;
+        padding: 4px 10px;
+        border-radius: 999px;
+      }
+      .callout {
+        background: var(--accent-soft);
+        border: 1px solid #d6e4ff;
+        border-left: 3px solid var(--accent);
+        border-radius: var(--radius);
+        padding: 14px 16px;
+        color: #1c3d7a;
+        font-size: 14.5px;
+        margin: 12px 0 18px;
+      }
+      .closing {
+        margin-top: 48px;
+        padding: 24px;
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        font-size: 16px;
+        text-align: center;
+        color: #1d2630;
+      }
+      footer {
+        margin-top: 40px;
+        text-align: center;
+        font-size: 12.5px;
+        color: var(--muted);
+      }
+      @media (max-width: 560px) {
+        h1 { font-size: 30px; }
+        .wrap { padding: 36px 18px 64px; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <header class="hero">
+        <div class="eyebrow">Project Overview</div>
+        <h1>Cibilize</h1>
+        <p class="lede">
+          A personal-finance web app focused on Indian credit behavior. It helps users
+          explore credit cards, estimate credit health, track spending, run common money
+          calculators, and chat with an AI assistant — all in one place.
+        </p>
+        <div class="chips">
+          <span class="chip">React + TypeScript</span>
+          <span class="chip">Node.js / Express</span>
+          <span class="chip">PostgreSQL</span>
+          <span class="chip">Google Sign-in</span>
+          <span class="chip">Gemini AI</span>
+        </div>
+      </header>
+
+      <h2>Big-picture architecture</h2>
+      <p>
+        The product splits into two main pieces that work together: a
+        <strong>web app</strong> users interact with, and a <strong>backend API</strong>
+        that handles data, login, and AI calls.
+      </p>
+      <div class="diagram">
+        <pre class="mermaid">
+flowchart LR
+  subgraph User["User's browser"]
+    UI["Web app"]
+  end
+  subgraph Backend["Backend API"]
+    API["REST APIs"]
+    DB[("Database")]
+    AI["AI services"]
+  end
+  UI -->|"requests & login"| API
+  API --> DB
+  API --> AI
+        </pre>
+      </div>
+
+      <h3>Main technologies</h3>
+      <table>
+        <thead>
+          <tr><th>Layer</th><th>What we use</th><th>Role</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Frontend</td><td>React, TypeScript, Vite</td><td>Fast, modern interactive UI</td></tr>
+          <tr><td>Styling & UI</td><td>Tailwind CSS, Radix components</td><td>Consistent layout and accessible controls</td></tr>
+          <tr><td>Data on client</td><td>TanStack Query</td><td>Smoothly loads and refreshes server data</td></tr>
+          <tr><td>Backend</td><td>Node.js, Express</td><td>Routes, security, business logic</td></tr>
+          <tr><td>Database</td><td>PostgreSQL</td><td>Users, expenses, card catalog, history</td></tr>
+          <tr><td>Sign-in</td><td>Google account + secure tokens</td><td>Login without a separate password</td></tr>
+          <tr><td>AI</td><td>Google Gemini + streaming chat models</td><td>Score insights & conversational help</td></tr>
+        </tbody>
+      </table>
+
+      <h2>How a typical session flows</h2>
+      <div class="diagram">
+        <pre class="mermaid">
+flowchart TD
+  A[Visit site] --> B{Signed in?}
+  B -->|No| C[Sign in with Google]
+  B -->|Yes| D[Dashboard / tools]
+  C --> D
+  D --> E[CIBIL-style tracker]
+  D --> F[Credit cards & recommendations]
+  D --> G[Expense tracker]
+  D --> H[Calculators]
+  D --> I[AI Agent chat]
+        </pre>
+      </div>
+
+      <h2>Feature highlights</h2>
+
+      <div class="card feature">
+        <h3>Credit card recommendations</h3>
+        <p>
+          Users browse a curated card catalog from the database. Personalized suggestions
+          combine preferences (spending style, income band, desired benefits, fee limits)
+          with matching rules so suggestions fit the profile. An AI-enhanced flow can also
+          recommend cards from a fixed, approved list alongside a broader financial snapshot.
+        </p>
+      </div>
+
+      <div class="card feature">
+        <h3>AI Agent</h3>
+        <p>
+          A chat-style assistant available after sign-in. It answers in natural language with
+          streaming replies, and can use context from the user’s recent recommendation results
+          so answers feel relevant rather than generic.
+        </p>
+      </div>
+
+      <div class="card feature">
+        <h3>CIBIL score tracker</h3>
+        <p>
+          Users enter simple facts — income, loans, utilization, missed payments, age — and the
+          system returns an estimated score band, risk view, improvement ideas, loan eligibility
+          hints, and next-step milestones.
+        </p>
+        <div class="callout">
+          Note for presenters: this is a decision-support and learning tool, not an official
+          CIBIL report. Real scores come only from authorized credit bureaus.
+        </div>
+      </div>
+
+      <div class="card feature">
+        <h3>Expense tracker</h3>
+        <p>
+          Add expenses manually and see lists plus summary stats. Optional file uploads for
+          receipts or statements are stored via a cloud media service and feed into server-side
+          processing workflows.
+        </p>
+      </div>
+
+      <h3>Financial calculators</h3>
+      <p>Hands-on tools that don’t need AI:</p>
+      <div class="grid">
+        <div class="card feature"><h3>EMI</h3><p>Loan installment estimates.</p></div>
+        <div class="card feature"><h3>SIP</h3><p>Regular investment growth.</p></div>
+        <div class="card feature"><h3>Lumpsum</h3><p>One-time investment growth.</p></div>
+        <div class="card feature"><h3>Tax</h3><p>Tax-oriented estimates.</p></div>
+        <div class="card feature"><h3>Retirement</h3><p>Long-term savings targets.</p></div>
+        <div class="card feature"><h3>Emergency fund</h3><p>How much to keep aside.</p></div>
+        <div class="card feature"><h3>Net worth</h3><p>Assets minus liabilities picture.</p></div>
+        <div class="card feature"><h3>Card payoff</h3><p>Paying down card debt.</p></div>
+        <div class="card feature"><h3>FD / RD</h3><p>Fixed/recurring deposit growth.</p></div>
+        <div class="card feature"><h3>Debt</h3><p>Overall debt scenarios.</p></div>
+      </div>
+
+      <h2>Security & quality</h2>
+      <ul>
+        <li>HTTPS-minded setup with rate limiting and security headers on the API.</li>
+        <li>Input sanitization on all incoming requests.</li>
+        <li>Authentication required for core tools so personal data stays behind login.</li>
+      </ul>
+
+      <div class="closing">
+        <strong>Cibilize</strong> bundles credit education, card discovery, spending visibility,
+        and calculators in one place — and layers AI where it helps explain and recommend, while
+        keeping structured data and rules as the backbone.
+      </div>
+
+      <footer>Project Overview · Cibilize</footer>
+    </div>
+
+    <script type="module">
+      import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+      mermaid.initialize({
+        startOnLoad: true,
+        theme: "base",
+        themeVariables: {
+          fontFamily: "Inter, system-ui, sans-serif",
+          primaryColor: "#eaf2ff",
+          primaryTextColor: "#111418",
+          primaryBorderColor: "#1f6feb",
+          lineColor: "#5b6470",
+          tertiaryColor: "#f7f8fa",
+        },
+      });
+    </script>
+  </body>
+</html>
